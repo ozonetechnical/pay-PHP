@@ -1,5 +1,5 @@
 # PAY ozone API 
-Base URL : ``` https://api.o.zone/```
+Base URL : ``` https://pay.o.zone/```
 ## 1. Get Address for watch
 ```https://pay.o.zone/newaddress```?*apikey*=apikey&*asset*=BTC
 
